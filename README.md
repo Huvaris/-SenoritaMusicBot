@@ -9,6 +9,8 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 3. `HEROKU_APP_NAME`: Your heroku apps name.
 4. `FILTERS`: Filter the search for channel play. Channel play means you can play all the files in a purticular channel using /cplay command. Current filters are `video document` . For searching audio files use `video document audio` . for video only search , use `video` and so on.
 
+* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@Sumit9969/generatestringsession#.replit)
+
 ### Optional Vars
 1. `LOG_GROUP` : Group to send Playlist, if CHAT is a Group()
 2. `ADMINS` : ID of users who can use admin commands.
