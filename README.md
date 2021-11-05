@@ -1,5 +1,7 @@
 #      𝄟⃝Sҽɳσɾιƚα Mυʂιƈ Bσƚ
 
+(https://telegra.ph/file/97c8ef3fb5a4a91668461.jpg)
+
 Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live streams, YouTube videos and telegram media. With record stream support, Schedule streams, and many more.
 
 ## Recommended Optional Vars
