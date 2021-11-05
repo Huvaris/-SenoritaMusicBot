@@ -1,8 +1,8 @@
 {
     "name": "VCPlayerBot",
     "description": "Telegram bot to stream video in telegram VC",
-    "logo": "https://telegra.ph/file/97c8ef3fb5a4a91668461.jpg",
-     "repository": "https://github.com/Sumit9969/-SenoritaMusicBot",
+    "logo": "https://telegra.ph/file/e7a4c8a318798fe05c93e.jpg",
+     "repository": "https://github.com/Huvaris/-CindrellaMusicBot",
     "stack": "container",
     "keywords": [
       "telegram",
